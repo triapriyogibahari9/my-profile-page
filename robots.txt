@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.triapriyoginotes.my.id/sitemap.xml
+Sitemap: https://triapriyoginotes.my.id/sitemap.xml
